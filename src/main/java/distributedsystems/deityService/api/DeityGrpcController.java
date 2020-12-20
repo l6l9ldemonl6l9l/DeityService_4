@@ -1,6 +1,6 @@
 package distributedsystems.deityService.api;
 
-import distributedsystems.deityService.*;
+import distributedsystems.Deity.*;
 import distributedsystems.deityService.model.Deity;
 import distributedsystems.deityService.services.DeityService;
 import io.grpc.stub.StreamObserver;

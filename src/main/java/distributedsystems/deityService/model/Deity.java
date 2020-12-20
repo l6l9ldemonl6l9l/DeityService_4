@@ -1,7 +1,7 @@
 package distributedsystems.deityService.model;
 
-import distributedsystems.deityService.DeityRequest;
-import distributedsystems.deityService.DeityResponse;
+import distributedsystems.Deity.DeityRequest;
+import distributedsystems.Deity.DeityResponse;
 import lombok.Data;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 
